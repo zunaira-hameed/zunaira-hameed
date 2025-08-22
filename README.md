@@ -38,7 +38,6 @@ Computer Science student focused on Machine Learning, AI, and Python development
 
 📧 **Email:** [zunairamughal47@gmail.com](mailto:zunairamughal47@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/zunaira-hameed](https://www.linkedin.com/in/zunaira-hameed/)  
-🌐 **Portfolio:** [zunairahameedportfolio.42web.io](https://zunairahameedportfolio.42web.io/)
 
 ---
 
