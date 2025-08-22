@@ -5,7 +5,7 @@
 ## 💫 About Me
 
 **Professional Version:**  
-I'm a 7th-semester Computer Science student at The Islamia University of Bahawalpur and an AI/ML Engineer in the making. I'm passionate about developing intelligent systems using Machine Learning, Data Science, and Python-based tools.
+I'm a 8th-semester Computer Science student at The Islamia University of Bahawalpur and an AI/ML Engineer in the making. I'm passionate about developing intelligent systems using Machine Learning, Data Science, and Python-based tools.
 
 **More Energetic Version:**  
 As a driven Computer Science student and aspiring AI/ML Engineer, I’m diving deep into Machine Learning, Data Science, and AI to build smart, real-world solutions that matter.
