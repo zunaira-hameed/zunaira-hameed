@@ -54,13 +54,3 @@ Computer Science graduate focused on Machine Learning, AI, and Python developmen
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white\&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress\&logoColor=white\&style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-![Zunaira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zunaira-hameed\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zunaira-hameed\&layout=compact\&theme=github_dark\&hide_border=true)
-
----
